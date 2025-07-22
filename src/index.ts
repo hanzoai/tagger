@@ -1,0 +1,1 @@
+export { componentTagger } from "./componentTaggerPlugin.js";
